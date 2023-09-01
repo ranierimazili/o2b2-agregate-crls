@@ -1,6 +1,6 @@
 #!/bin/bash
 
-output_file="revoked.crl"
+output_file="revoked.pem"
 temp_crl="temp.crl"
 input_file="crl_urls.txt"
 
@@ -38,5 +38,3 @@ done < "$input_file"
 
 # Clean up the temporary file
 rm -f "$temp_crl"
-
-echo "Done! All CRLs appended to $output_file."
