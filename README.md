@@ -1,3 +1,8 @@
+# ATENÇÃO
+Este repositório está descontinuado. 
+
+Os recursos deste projeto foram incluídos no projeto [o2b2-update-acs](https://github.com/ranierimazili/o2b2-update-acs). Você deve utilizar o projeto [o2b2-update-acs](https://github.com/ranierimazili/o2b2-update-acs) caso deseje manter a lista de AC's e CRL's atualizada.
+
 # The open Open Banking Brasil project - Agregate CRL's
 Agrega a lista de CRL's das CA's do Open Finance para ser utilizado no Nginx
 
